@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealModbus.cpp.obj": [
+			"UnrealModbus.cpp.obj"
+		]
+	}
+}

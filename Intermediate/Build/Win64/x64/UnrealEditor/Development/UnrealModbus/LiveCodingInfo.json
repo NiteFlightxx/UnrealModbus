@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealModbus.cpp.obj": [
+			"UnrealModbus.init.gen.cpp.obj",
+			"UnrealModbusLibrary.gen.cpp.obj",
+			"UnrealModbus.cpp.obj",
+			"UnrealModbusLibrary.cpp.obj"
+		]
+	}
+}

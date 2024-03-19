@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealProject\\ContentExamples53\\Plugins\\UnrealModbus\\Source\\ThirdParty\\UnrealModbusLibrary\\UnrealModbusLibrary.Build.cs",
+		"E:\\UnrealProject\\ContentExamples53\\Plugins\\UnrealModbus\\Source\\UnrealModbus\\UnrealModbus.Build.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
